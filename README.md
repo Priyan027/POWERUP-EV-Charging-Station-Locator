@@ -1,17 +1,17 @@
-# EV Charging Station Finder 🚗⚡
+# EV Charging Station Finder 
 
 A mobile application built using **Expo React Native** that helps users discover nearby EV charging stations based on their current location.
 
-## ✨ Features
+##  Features
 
-- 📍 Find nearby EV charging stations
-- 🔍 Search locations using Google Places Autocomplete
-- 🗺️ View station details
-- 🧭 Get directions through Google Maps
-- ❤️ Save favorite charging stations
-- 📱 Clean and responsive mobile interface
+-  Find nearby EV charging stations
+-  Search locations using Google Places Autocomplete
+-  View station details
+-  Get directions through Google Maps
+- Save favorite charging stations
+-  Clean and responsive mobile interface
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - Expo
 - React Native
@@ -20,7 +20,7 @@ A mobile application built using **Expo React Native** that helps users discover
 - Google Places API
 - Axios
 
-## 🚀 Installation
+##  Installation
 
 1. Clone the repository
 
@@ -71,7 +71,7 @@ npx expo start
 ### Favorites
 ![Favorites](screenshots/favorites.png)
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 ├── assets/
@@ -83,7 +83,7 @@ npx expo start
 └── README.md
 ```
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - User authentication
 - Charging station reviews and ratings
@@ -91,8 +91,9 @@ npx expo start
 - Real-time charger availability
 - Filter stations by charger type
 
-## 👩‍💻 Author
+##  Author
 
 **Mihika Sathe**
 
-Computer Engineering Student
+Computer Engineering Student- B.E.
+PVGCOETM,PUNE
