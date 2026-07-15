@@ -46,7 +46,7 @@ export default function SearchBar() {
           handleRedirect({ lat, lng }, details); // Pass the full details, including name and address
         }}
         query={{
-          key: 'AIzaSyBxkCDzuExLyyOFF_WL373vT4HEu3X0MnE', // Your Google Maps API key
+          key: 'YOUR_GOOGLE_MAPS_API_KEY', // Your Google Maps API key
           language: 'en',
         }}
         styles={{
