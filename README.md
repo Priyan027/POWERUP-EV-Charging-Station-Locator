@@ -58,18 +58,25 @@ npx expo start
 
 ## 📸 Screenshots
 
+<table>
+  <tr>
+    <td align="center"><b>Home Screen</b></td>
+    <td align="center"><b>Search Screen</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/loginpage.png" width="220" alt="Home Screen"/></td>
+    <td><img src="screenshots/homescreen.png" width="220" alt="Search Screen"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Profile Details</b></td>
+    <td align="center"><b>Favorites</b></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/profilescreen.png" width="220" alt="Profile Details"/></td>
+    <td><img src="screenshots/favorites.png" width="220" alt="Favorites"/></td>
+  </tr>
+</table>
 
-### Home Screen
-![Home Screen](screenshots/loginpage.png)
-
-### Search Screen
-![Search Screen](screenshots/homescreen.png)
-
-### Profile Details
-![Profile Details](screenshots/profilescreen.png)
-
-### Favorites
-![Favorites](screenshots/favorites.png)
 
 ##  Project Structure
 
