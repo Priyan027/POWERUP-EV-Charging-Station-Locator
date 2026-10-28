@@ -100,7 +100,7 @@ npx expo start
 
 ##  Author
 
-**PRIYA NAGARE**
+**PRIYA NAGARE , MIHIKA SATHE , MRUNAL LAD**
 
 Computer Engineering Student- B.E.
 PVGCOETM,PUNE
